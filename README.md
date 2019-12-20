@@ -1,5 +1,5 @@
 # Data Processes Proyect
-Paper for group 11
+Web for group 11
 
 # Members
 - José Domínguez Pérez
